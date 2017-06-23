@@ -1,3 +1,7 @@
+To run:
+
+chmod a+x app.py
+flask run -h 192.168.177.185 -p 80
 
 
                           // Flask //
